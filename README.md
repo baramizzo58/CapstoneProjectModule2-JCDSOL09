@@ -50,6 +50,7 @@ Untuk menyelesaikan permasalahan ini, Digunakan dataset `marketing_campaign.csv`
     * NumWebVisitsMonth: Jumlah kunjungan ke website perusahaan dalam sebulan terakhir
     
 # Analisis
+Dapat dilihat di file ipynb & ppt.
 
 # Kesimpulan
 Dari analisis yang telah dilakukan, akhirnya didapatkan jawaban atas problem yang dinyatakan sebelumnya yang tertuang pada poin-poin berikut:
